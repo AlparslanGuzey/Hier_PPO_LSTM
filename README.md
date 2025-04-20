@@ -1,4 +1,7 @@
 # Hier_PPO_LSTM
+# Hier_PPO_LSTM
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15250811.svg)](https://doi.org/10.5281/zenodo.15250811)
 
 This repository contains the code for **Hierarchical PPO+LSTM** applied to multi‑UAV mission planning in discrete grid environments. The project implements a two‑tier reinforcement‑learning framework where a high‑level manager selects coarse waypoints and a shared LSTM‑backboned PPO worker executes collision‑aware motion primitives under partial observability.
 
