@@ -1,5 +1,4 @@
 # Hier_PPO_LSTM
-# Hier_PPO_LSTM
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15250811.svg)](https://doi.org/10.5281/zenodo.15250811)
 
